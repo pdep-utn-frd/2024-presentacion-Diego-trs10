@@ -1,6 +1,6 @@
 # Presentacion
 
-Hola, me llamo Diego Emanuel Torres y me dicen Diego. Tengo 20 años, mi cumpleaños es el 13/06, naci un viernes 13 aunque nunca vi la pelicula.
+Hola, me llamo Diego Emanuel Torres y me dicen Diego. Tengo 20 años, mi cumpleaños es el 13/06, nací un viernes 13 aunque nunca vi la pelicula.
 
 ### Sobre mi
 + Soy jugador de rugby desde los 10 años en el club Nautico Arsenal Zarate
